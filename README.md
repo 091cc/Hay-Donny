@@ -12,13 +12,13 @@ open ```settings >> accessibility >> vocal shortcuts >> add action >> Siri```
 
 Then download these file down here  to your shortcuts app.
 
-[https://www.icloud.com/shortcuts/7507b4ff49114674b8f28c303e0565a7](https://www.icloud.com/shortcuts/7507b4ff49114674b8f28c303e0565a7)
+* [https://www.icloud.com/shortcuts/7507b4ff49114674b8f28c303e0565a7](https://www.icloud.com/shortcuts/7507b4ff49114674b8f28c303e0565a7)
 
-[https://www.icloud.com/shortcuts/7ea5a508b6ef4b60965b6befe1a036db](https://www.icloud.com/shortcuts/7ea5a508b6ef4b60965b6befe1a036db) 
+* [https://www.icloud.com/shortcuts/7ea5a508b6ef4b60965b6befe1a036db](https://www.icloud.com/shortcuts/7ea5a508b6ef4b60965b6befe1a036db) 
 
-[https://www.icloud.com/shortcuts/1b2602783f46429ca040c5b99d75217c](https://www.icloud.com/shortcuts/1b2602783f46429ca040c5b99d75217c) 
+* [https://www.icloud.com/shortcuts/1b2602783f46429ca040c5b99d75217c](https://www.icloud.com/shortcuts/1b2602783f46429ca040c5b99d75217c) 
 
-[https://www.icloud.com/shortcuts/1b2602783f46429ca040c5b99d75217c](https://www.icloud.com/shortcuts/1b2602783f46429ca040c5b99d75217c)
+* [https://www.icloud.com/shortcuts/1b2602783f46429ca040c5b99d75217c](https://www.icloud.com/shortcuts/1b2602783f46429ca040c5b99d75217c)
 
 # FAQ
 <details>
